@@ -4,7 +4,7 @@ module.exports = {
     filename: 'parchment.js',
     library: 'Parchment',
     libraryTarget: 'umd',
-    path: __dirname + '/dist',
+    path: __dirname + '/../',
   },
   resolve: {
     extensions: ['.js', '.ts'],

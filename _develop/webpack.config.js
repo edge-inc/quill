@@ -116,7 +116,7 @@ const baseConfig = {
     alias: {
       parchment: path.resolve(
         __dirname,
-        '../node_modules/parchment/src/parchment',
+        '../parchment.js',
       ),
     },
     extensions: ['.js', '.styl', '.ts'],

@@ -36,7 +36,6 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.isequal": "^4.5.0",
     "lodash.merge": "^4.6.2",
-    "parchment": "./parchment",
     "quill-delta": "4.2.2"
   },
   "devDependencies": {
